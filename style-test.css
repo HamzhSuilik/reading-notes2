@@ -1,0 +1,16 @@
+div.box {
+    height: 300px;
+    width: 300px;
+
+       border-width: 10px;
+        border-color: black;}
+    p {
+        
+        font-size: 15px;
+        border-width: 10px;
+        border-color: black;
+        background-color: #d9dd00;
+        text-align: center;
+
+
+}
